@@ -1,0 +1,92 @@
+{
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        15
+    ],
+    "inputc_0000": [
+        "inputc_0000",
+        "BYzjH",
+        "module",
+        13
+    ],
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        1
+    ],
+    "uvm_custom_install_verdi_recording": [
+        "uvm_custom_install_verdi_recording",
+        "EbjT3",
+        "module",
+        8
+    ],
+    "_vcs_msglog": [
+        "_vcs_msglog",
+        "zQBzV",
+        "module",
+        6
+    ],
+    "uvm_custom_install_recording": [
+        "uvm_custom_install_recording",
+        "nhiwz",
+        "module",
+        7
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        2
+    ],
+    "_vcs_unit__3411513431": [
+        "_vcs_unit__3411513431",
+        "BpD3V",
+        "module",
+        3
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        4
+    ],
+    "vc_0000": [
+        "vc_0000",
+        "MIFcc",
+        "module",
+        12
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        5
+    ],
+    "noc_pkg": [
+        "noc_pkg",
+        "vHi2F",
+        "module",
+        9
+    ],
+    "mux_0000": [
+        "mux_0000",
+        "VGiWK",
+        "module",
+        10
+    ],
+    "muxcont_0000": [
+        "muxcont_0000",
+        "iaFPu",
+        "module",
+        11
+    ],
+    "router_tb": [
+        "router_tb",
+        "TSCsi",
+        "module",
+        14
+    ]
+}
