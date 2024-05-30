@@ -1,5 +1,7 @@
 module cb import noc_pkg::*;
-( 
+(
+    input   logic   clk,
+    input   logic   rst_n,
     input   router_i_t   [PORT_N-1:0]           cb_i,
     output  router_i_t   [PORT_N-1:0]           cb_o,
 
